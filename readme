@@ -1,0 +1,9 @@
+#This is a sample project about web scraping
+
+#Bs4 and requests libraries used in this sample project
+
+#imdbtop250.py gets the top 250 chart from 'www.imdb.com' and shows the list on the console
+
+
+#wordfrequence.py gets a specific url which is 'https://tr.wikipedia.org/wiki/Aziz_Sancar' in this sample.
+#Searches the url page about frequency of words in 'p' elements
